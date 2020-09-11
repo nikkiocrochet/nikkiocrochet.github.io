@@ -23,3 +23,10 @@ a {
   color: #04724dff; }
   a:hover {
     color: #8db38bff; }
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem; }
+  header a {
+    color: #0b0c09ff; }
