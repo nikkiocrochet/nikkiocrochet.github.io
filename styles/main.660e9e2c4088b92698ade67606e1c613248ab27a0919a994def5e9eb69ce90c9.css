@@ -94,5 +94,4 @@ header {
   @media (max-width: 450px) {
     .collage {
       -moz-column-count: 1;
-           column-count: 1;
-      max-height: 900px; } }
+           column-count: 1; } }
