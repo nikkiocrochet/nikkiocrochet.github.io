@@ -62,11 +62,6 @@
       async
       src="https://cdn.snipcart.com/themes/v3.0.21/default/snipcart.js"
     ></script>
-    <div
-      hidden
-      id="snipcart"
-      data-api-key="MzcyMTAwNGYtYzY3ZC00NmRjLThhMDMtN2NjM2NlMWJhNjMzNjM3MzUzMDQxMjAyMzgwNDky"
-    ></div>
   </head>
   <body>
     <header>
@@ -77,8 +72,9 @@
         <a href="#" class="snipcart-checkout">
           <div class="snipcart-summary">
             <i class="fas fa-lg fa-shopping-bag"></i>&nbsp;<span
-              class="snipcart-total-price"
+              class="snipcart-items-count"
             ></span>
+            item(s)
           </div>
         </a>
       </div>
@@ -158,6 +154,12 @@
 </div>
 
       
+      <div
+        hidden
+        id="snipcart"
+        data-api-key="MzcyMTAwNGYtYzY3ZC00NmRjLThhMDMtN2NjM2NlMWJhNjMzNjM3MzUzMDQxMjAyMzgwNDky"
+        data-config-add-product-behavior="none"
+      ></div>
     </section>
   </main>
 
