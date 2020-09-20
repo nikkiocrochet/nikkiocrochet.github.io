@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://nikkiocrochet.com/something-new/</loc>
+    <lastmod>2020-09-20T18:43:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nikkiocrochet.com/categories/</loc>
+    <lastmod>2020-09-20T18:43:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nikkiocrochet.com/categories/for-the-furry-friends/</loc>
+    <lastmod>2020-09-20T18:43:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nikkiocrochet.com/categories/for-the-home/</loc>
+    <lastmod>2020-09-20T18:43:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nikkiocrochet.com/categories/for-the-tiny-humans/</loc>
+    <lastmod>2020-09-20T18:43:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nikkiocrochet.com/categories/for-you/</loc>
+    <lastmod>2020-09-20T18:43:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nikkiocrochet.com/</loc>
+    <lastmod>2020-09-20T18:43:08+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nikkiocrochet.com/cat/</loc>
   </url>
   
@@ -28,22 +63,6 @@
   
   <url>
     <loc>http://nikkiocrochet.com/two/</loc>
-  </url>
-  
-  <url>
-    <loc>http://nikkiocrochet.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://nikkiocrochet.com/categories/for-the-home/</loc>
-  </url>
-  
-  <url>
-    <loc>http://nikkiocrochet.com/categories/for-you/</loc>
-  </url>
-  
-  <url>
-    <loc>http://nikkiocrochet.com/</loc>
   </url>
   
   <url>
