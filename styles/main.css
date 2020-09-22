@@ -194,6 +194,16 @@ a.btn {
 .snipcart-cart-header > div {
   display: none; }
 
+@media (min-width: 1024px) {
+  .snipcart .snipcart-dropdown-custom-field--standard {
+    width: 50%; } }
+
+@media (max-width: 1023px) {
+  .snipcart .snipcart-item-line__header {
+    height: 200px; }
+    .snipcart .snipcart-item-line__header figure {
+      height: 200px; } }
+
 .reviews .review {
   overflow: hidden;
   background-color: #01050d;
