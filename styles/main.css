@@ -132,6 +132,7 @@ a.btn {
       -moz-column-count: 2;
            column-count: 2; }
       .collage h1 {
+        line-height: 1.15;
         font-size: 3rem; } }
   @media (max-width: 450px) {
     .collage {
